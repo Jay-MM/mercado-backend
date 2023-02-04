@@ -24,7 +24,7 @@
   ## [Usage](#table-of-contents)
 to test routes functionality  use [insomnia](https://insomnia.rest/products/insomnia) or [postman](https://www.postman.com/)
 <br>
-[click here to watch a Walk-through Video testing the routes using insonia ]()
+[click here to watch a Walk-through Video testing the routes using insonia](https://raw.githubusercontent.com/Jay-MM/mercado-backend/main/asssets/mvc-homework.mp4)
   
   
   ## [Credits](#table-of-contents)
